@@ -57,7 +57,7 @@ const Category = ({params}) => {
       <div className={styles.item}>
         <div className={styles.content}>
           <h1 className={styles.title}>Test</h1>
-          <p className={styles.desc}>Description</p>
+          <p className={styles.description}>Description</p>
           <Button text="See More" url="#" />
         </div>
         <div className={styles.imgContainer}>
