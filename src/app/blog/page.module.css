@@ -1,4 +1,4 @@
-.container{
+.container {
   display: flex;
   align-items: center;
   gap: 50px;
@@ -9,15 +9,14 @@
   object-fit: cover;
 }
 
-.content{
-
+.content {
 }
 
 .title{
   margin-bottom: 10px;
 }
 
-.description{
+.desc{
   font-size: 18px;
   color: #999;
 }
